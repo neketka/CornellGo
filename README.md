@@ -13,3 +13,5 @@ This repository contains the Flutter mobile app, the React administration app, a
 
 - **Eric Huang** - Administrative Frontend
 
+- **Tobi Alade** - Flutter
+
